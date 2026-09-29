@@ -1,0 +1,61 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Connect Courses - Visita Virtual 360°
+
+## Skin
+
+### Button
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = Quadra Esportes
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4.pressedLabel = Quadra Esportes
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = Quadra Esportes
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.pressedLabel = Quadra Esportes
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = Recepção
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.pressedLabel = Recepção
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = Recepção
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.pressedLabel = Recepção
+Button_120B851B_0B71_5228_4196_00C288081998.label = Setor 4: Térreo | Laboratórios 03
+Button_120B851B_0B71_5228_4196_00C288081998.pressedLabel = Setor 4: Térreo | Laboratórios 03
+Button_120B851B_0B71_5228_4196_00C288081998_mobile.label = Setor 4: Térreo | Laboratórios 03
+Button_120B851B_0B71_5228_4196_00C288081998_mobile.pressedLabel = Setor 4: Térreo | Laboratórios 03
+Button_1253F45C_0B71_3228_4185_0B8302632400.label = Área Eventos
+Button_1253F45C_0B71_3228_4185_0B8302632400.pressedLabel = Área Eventos
+Button_1253F45C_0B71_3228_4185_0B8302632400_mobile.label = Área Eventos
+Button_1253F45C_0B71_3228_4185_0B8302632400_mobile.pressedLabel = Área Eventos
+Button_127460F7_0B73_53F8_4193_0EDD4B89F893.label = Setor 7: Subsolo | Laboratórios 02
+Button_127460F7_0B73_53F8_4193_0EDD4B89F893.pressedLabel = Setor 7: Subsolo | Laboratórios 02
+Button_127460F7_0B73_53F8_4193_0EDD4B89F893_mobile.label = Setor 7: Subsolo | Laboratórios 02
+Button_127460F7_0B73_53F8_4193_0EDD4B89F893_mobile.pressedLabel = Setor 7: Subsolo | Laboratórios 02
+Button_12FD0861_0B71_7218_4199_8D58FDB57AC4.label = Setor 5: Térreo | Laboratórios 04
+Button_12FD0861_0B71_7218_4199_8D58FDB57AC4.pressedLabel = Setor 5: Térreo | Laboratórios 04
+Button_12FD0861_0B71_7218_4199_8D58FDB57AC4_mobile.label = Setor 5: Térreo | Laboratórios 04
+Button_12FD0861_0B71_7218_4199_8D58FDB57AC4_mobile.pressedLabel = Setor 5: Térreo | Laboratórios 04
+Button_139FDCD0_0B72_D238_41A2_C8B1CC99C026.label = Setor 6: Subsolo | Laboratórios 01
+Button_139FDCD0_0B72_D238_41A2_C8B1CC99C026.pressedLabel = Setor 6: Subsolo | Laboratórios 01
+Button_139FDCD0_0B72_D238_41A2_C8B1CC99C026_mobile.label = Setor 6: Subsolo | Laboratórios 01
+Button_139FDCD0_0B72_D238_41A2_C8B1CC99C026_mobile.pressedLabel = Setor 6: Subsolo | Laboratórios 01
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410.label = Acesso Principal
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410.pressedLabel = Acesso Principal
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410_mobile.label = Acesso Principal
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410_mobile.pressedLabel = Acesso Principal
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Oswald Regular';"><I>Instituto de Pesquisas ELDORADO</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Oswald Regular';"><I>Av. Alan Turing, 275 - Campinas - SP, </I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Oswald Regular';"><I>13083-898</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Oswald Regular';"><I>(19) 3757-3000</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.5px;font-family:'Oswald Regular';"><I>Instituto de Pesquisas ELDORADO</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.5px;font-family:'Oswald Regular';"><I>Av. Alan Turing, 275 - Campinas - SP, </I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.5px;font-family:'Oswald Regular';"><I>13083-898</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.5px;font-family:'Oswald Regular';"><I>(19) 3757-3000</I></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_68451457_6560_6801_41D7_9247C5F35708.label = New Panorama68
+panorama_685A77CD_6560_2801_41A2_370946C69501.label = New Panorama75
+panorama_686760CB_6560_6801_41B2_AD00CFD441C1.label = New Panorama63
+panorama_686AD7DA_6560_E803_41D4_C228A26890F9.label = New Panorama65
+panorama_6871AC2B_6560_3801_41D5_40AAEFE3E39D.label = New Panorama64
+panorama_687AFDEB_6560_7801_41CB_862D0875106B.label = New Panorama66
+panorama_687C793A_6561_D803_41C9_275E66185870.label = New Panorama67
+panorama_687DD57A_6560_2800_41BF_98E5C3D3542F.label = New Panorama61
+panorama_698A8FBB_6563_F801_41D8_6D4E2D1CF3C6.label = New Panorama62
